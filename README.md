@@ -8,9 +8,9 @@
 
 - 💬 Discuss with me about **Frontend Development,DSA**
 
-- 📫 How to reach me **udayandas069@gmail.com**
+- 📫 My Email: **udayandas069@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
