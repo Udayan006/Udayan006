@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Discuss with me about **Frontend Development,DSA**
+- 💬 Discuss with me about **Web Development**
 
 - 📫 My Email: **udayandas069@gmail.com**
 
