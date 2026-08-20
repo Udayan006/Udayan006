@@ -1,6 +1,6 @@
 <h1>Hi,I am Udayan</h1>
 # 💫 About Me:
-I'm currently in my pre final year of Bachelor of Technology in ECE<br>I'm currently learning python <br>Proficient in C++,Java<br>
+I'm currently in my final year of Bachelor of Technology in ECE<br>I'm currently learning python <br>Proficient in C++,Java<br>
 
 
 ## 🌐 Socials:
